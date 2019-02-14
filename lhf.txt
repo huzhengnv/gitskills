@@ -3,3 +3,9 @@ LinuxÄÚºË×î³õÖ»ÊÇÓÉ·ÒÀ¼ÈËÀîÄÉË¹¡¤ÍÐÍß×È£¨Linus Torvalds£©ÔÚºÕ¶ûÐÁ»ù´óÑ§ÉÏÑ§Ê±³öÓ
 LinuxÊÇÒ»Ì×Ãâ·ÑÊ¹ÓÃºÍ×ÔÓÉ´«²¥µÄÀàUnix²Ù×÷ÏµÍ³£¬ÊÇÒ»¸ö»ùÓÚPOSIXºÍUNIXµÄ¶àÓÃ»§¡¢¶àÈÎÎñ¡¢Ö§³Ö¶àÏß³ÌºÍ¶àCPUµÄ²Ù×÷ÏµÍ³¡£
 
 LinuxÄÜÔËÐÐÖ÷ÒªµÄUNIX¹¤¾ßÈí¼þ¡¢Ó¦ÓÃ³ÌÐòºÍÍøÂçÐ­Òé¡£ËüÖ§³Ö32Î»ºÍ64Î»Ó²¼þ¡£Linux¼Ì³ÐÁËUnixÒÔÍøÂçÎªºËÐÄµÄÉè¼ÆË¼Ïë£¬ÊÇÒ»¸öÐÔÄÜÎÈ¶¨µÄ¶àÓÃ»§ÍøÂç²Ù×÷ÏµÍ³¡£
+
+
+
+
+
+122222222231222222222222222222222221

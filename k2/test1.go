@@ -1,5 +1,5 @@
 package k2
 
 func GetUserMessage() string{
-   return "Hello lhf"  
+   return "Hello lhf are you ready"  
 }
